@@ -45,31 +45,31 @@ public class Testing {
 
 
 
-       boolean cake = true;
-       boolean chocolate = false;
-       boolean vanilla = false;
-       boolean iceCream = true;
-       boolean banana = false;
-       boolean strawberry = true;
-       boolean mint = false;
+//        boolean cake = true;
+//        boolean chocolate = false;
+//        boolean vanilla = false;
+//        boolean iceCream = true;
+//        boolean banana = false;
+//        boolean strawberry = true;
+//        boolean mint = false;
 
-       if(cake){
-           if(chocolate){
-               System.out.println("get chocolate cake");
-           }else if(vanilla){
-               System.out.println("get vanilla cake");
-           }else{
-               System.out.println("get whatever cake they have");
-           }
-       }else if(iceCream){
-           if(banana){
-               System.out.println("get banana icecream");
-           }else if(strawberry){
-               System.out.println("get strawberry icecream");
-           }else if(mint){
-               System.out.println("get mint icecream");
-           }
-       }
+//        if(cake){
+//            if(chocolate){
+//                System.out.println("get chocolate cake");
+//            }else if(vanilla){
+//                System.out.println("get vanilla cake");
+//            }else{
+//                System.out.println("get whatever cake they have");
+//            }
+//        }else if(iceCream){
+//            if(banana){
+//                System.out.println("get banana icecream");
+//            }else if(strawberry){
+//                System.out.println("get strawberry icecream");
+//            }else if(mint){
+//                System.out.println("get mint icecream");
+//            }
+//        }
 
 
 
