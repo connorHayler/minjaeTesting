@@ -8,7 +8,7 @@ git status
 
 git add
 
-git commit
+git commit -m "Your message goes here"
 
 git push
 ```
